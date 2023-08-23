@@ -1,0 +1,21 @@
+{
+  "ModId": "p5rpc.levelCap",
+  "ModName": "Level Cap",
+  "ModAuthor": "AnimatedSwine37",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Caps the level of your party depending on how far in game you are.",
+  "ModDll": "p5rpc.levelCap.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/p5rpc.levelCap.dll",
+  "ModR2RManagedDll64": "x64/p5rpc.levelCap.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p5rpc.levelCap.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks", "p5rpc.lib", "Reloaded.Memory.SigScan.ReloadedII" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": ["p5r.exe"],
+  "ProjectUrl": ""
+}
